@@ -1,0 +1,100 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Pork Sandwich",
+            "image": "single_food_1.png",
+            "price": 20,
+            "description": "They are wherein heaven seed hath nothing",
+            "variants":[
+                {
+                    "color":"red",
+                    "image": "single_food_1.png",
+                    "quantity":20
+                },
+                {              
+                    "color":"green",
+                    "image": "single_food_2.png",
+                    "quantity":3
+                }
+                ,
+                {
+                    "color":"yellow",
+                    "image": "single_food_3.png",
+                    "quantity":0
+                }
+            ]
+        },
+        {
+            "name": "Roasted Marrow",
+            "id": 2,
+            "image": "single_food_2.png",
+            "description": "They are wherein heaven seed hath nothing",
+            "price": 60,
+            "variants":[
+                {
+                    "color":"red",
+                    "image": "single_food_6.png",
+                    "quantity":20
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Summer Cooking",
+            "image": "single_food_3.png",
+            "description": "They are wherein heaven seed hath nothing",
+            "price": 90,
+            "variants":[
+                {
+                    "color":"red",
+                    "image": "single_food_6.png",
+                    "quantity":20
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Easter Delight",
+            "image": "single_food_4.png",
+            "description": "They are wherein heaven seed hath nothing",
+            "price": 140,
+            "variants":[
+                {
+                    "color":"red",
+                    "image": "single_food_6.png",
+                    "quantity":20
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Tiener Schnitze",
+            "image": "single_food_5.png",
+            "description": "They are wherein heaven seed hath nothing",
+            "price": 20,
+            "variants":[
+                {
+                    "color":"red",
+                    "image": "single_food_6.png",
+                    "quantity":20
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Chicken Roast",
+            "image": "single_food_6.png",
+            "description": "They are wherein heaven seed hath nothing",
+            "price": 940,
+            "variants":[
+                {
+                    "color":"red",
+                    "image": "single_food_6.png",
+                    "quantity":20
+                }
+            ]
+        }
+        
+    ]
+}
